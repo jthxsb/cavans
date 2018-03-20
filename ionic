@@ -1,4 +1,11 @@
-      <Text>{'\n'}</Text>
+     <!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+	</head>
+	<body>
+	     <Text>{'\n'}</Text>
       <View style={{backgroundColor:'#eeeeee',
       height:60,
       alignItems:'center'}}>
@@ -17,3 +24,7 @@
       </View>
       
     </View>
+	</body>
+</html>
+     
+ 
